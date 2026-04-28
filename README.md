@@ -1,17 +1,8 @@
 # Data structurte & Algorithms 
-   |           |           |
-   |           |           |
-Information    |           |
-   |           |           |
-   |       -----------     |-------->Set of Instruction
-   |       |Array    |
-   |------>|Link List|
-   |       |Stack    |
-   |       |Queue    |
-  Store    |Tree     |
-           |Graph    |
-           -----------
 
+1) Data ---> Information
+2) structurte ---> Arrar,Link List,Stack,Queue,Tree and Gpaph
+3) Algorithms ---> Set of Instruction
 
 # Time Complexity Notes
 
